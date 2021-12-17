@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" name="Report_TC_01">
-  <test name="Test_TC_01">
-    <classes>
-      <class name="Customizable_Emailable_Report.TC_01_Test_Report"/>
-    </classes>
-  </test> <!-- Test_TC_01 -->
-</suite> <!-- Report_TC_01 -->
