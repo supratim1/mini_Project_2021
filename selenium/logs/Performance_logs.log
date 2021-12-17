@@ -1,0 +1,20 @@
+[INFO ] 2021-12-17 22:21:33.113 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:21:37.192 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:21:45.297 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 22:21:50.151 [main] PerformancePage - Clicked on PIM tab
+[INFO ] 2021-12-17 22:21:55.469 [main] PerformancePage - Firstname entered
+[INFO ] 2021-12-17 22:21:57.565 [main] PerformancePage - Lastname entered
+[INFO ] 2021-12-17 22:22:01.699 [main] PerformancePage - Employee ID provided
+[INFO ] 2021-12-17 22:22:04.832 [main] PerformancePage - Username provided
+[INFO ] 2021-12-17 22:22:08.970 [main] PerformancePage - password entered
+[WARN ] 2021-12-17 22:22:13.117 [main] PerformancePage - Password and re-enter password do not match
+[WARN ] 2021-12-17 22:22:16.217 [main] PerformancePage - Password and re-enter password do not match
+[WARN ] 2021-12-17 22:22:20.995 [main] PerformancePage - Data saved successfully
+[WARN ] 2021-12-17 22:22:28.855 [main] PerformancePage - Employee searched by ID
+[WARN ] 2021-12-17 22:22:29.904 [main] PerformancePage - Employee status selected
+[WARN ] 2021-12-17 22:22:34.034 [main] PerformancePage - Reset action working fine
+[WARN ] 2021-12-17 22:22:38.175 [main] PerformancePage - Employee searched by Username
+[WARN ] 2021-12-17 22:22:43.448 [main] PerformancePage - Employee selected from list
+[WARN ] 2021-12-17 22:22:46.300 [main] PerformancePage - Delete dialogue box appears to choose and data deleted successfully
+[INFO ] 2021-12-17 22:22:51.348 [main] HomePage - Navigated to Home Page
+[INFO ] 2021-12-17 22:22:55.496 [main] HomePage - User logged out successfully

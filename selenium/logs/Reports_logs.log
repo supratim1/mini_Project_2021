@@ -1,0 +1,8 @@
+[INFO ] 2021-12-17 22:26:44.182 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:26:48.245 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:26:57.791 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 22:27:01.649 [main] ReportsPage - Clicked on PIM tab/button
+[INFO ] 2021-12-17 22:27:09.790 [main] ReportsPage - Report name entered
+[INFO ] 2021-12-17 22:27:12.947 [main] ReportsPage - Pay grade selected from dropdown list
+[INFO ] 2021-12-17 22:27:15.174 [main] ReportsPage - report displayed
+[INFO ] 2021-12-17 22:27:25.258 [main] ReportsPage - Value sent with search action

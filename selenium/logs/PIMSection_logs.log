@@ -1,0 +1,11 @@
+[INFO ] 2021-12-17 22:24:19.352 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:24:23.418 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:24:32.670 [main] Alternate_LoginPage - User logged in successfully
+[WARN ] 2021-12-17 22:24:36.932 [main] PIM_SectionPage - Clicked on PIM Tab 
+[WARN ] 2021-12-17 22:24:37.986 [main] PIM_SectionPage - Switched to Organization page
+[WARN ] 2021-12-17 22:24:43.363 [main] PIM_SectionPage - Loaction selected from dropdow list
+[INFO ] 2021-12-17 22:24:53.158 [main] PIM_SectionPage - Reset button clicked to clear data
+[INFO ] 2021-12-17 22:24:56.256 [main] PIM_SectionPage - Searched organization location by city name
+[INFO ] 2021-12-17 22:25:01.943 [main] PIM_SectionPage - Searched organization location by country name
+[INFO ] 2021-12-17 22:25:09.975 [main] HomePage - Navigated to Home Page
+[INFO ] 2021-12-17 22:25:13.392 [main] HomePage - User logged out successfully

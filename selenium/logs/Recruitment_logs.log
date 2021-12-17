@@ -1,0 +1,14 @@
+[INFO ] 2021-12-17 17:30:06.730 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 17:30:10.828 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 17:30:21.136 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 17:30:23.799 [main] Recruitment_Page - Navigated to recruitment section
+[TRACE] 2021-12-17 17:30:23.850 [main] Recruitment_Page - Job title vacancy searched
+[WARN ] 2021-12-17 17:30:23.918 [main] Recruitment_Page - Job title selsected
+[INFO ] 2021-12-17 17:30:26.669 [main] Recruitment_Page - Add button clicked
+[INFO ] 2021-12-17 17:30:26.697 [main] Recruitment_Page - Candidate navigated to job application section
+[FATAL] 2021-12-17 17:30:26.830 [main] Recruitment_Page - firstname entered
+[INFO ] 2021-12-17 17:30:26.920 [main] Recruitment_Page - lastname entered
+[INFO ] 2021-12-17 17:30:27.014 [main] Recruitment_Page - User e-mail entered
+[INFO ] 2021-12-17 17:30:28.678 [main] Recruitment_Page - Job application submitted successfully
+[INFO ] 2021-12-17 17:30:32.724 [main] HomePage - Navigated to Home Page
+[INFO ] 2021-12-17 17:30:36.300 [main] HomePage - User logged out successfully

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42935" started-at="2021-12-17T17:08:29Z" finished-at="2021-12-17T17:09:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42935" started-at="2021-12-17T17:08:29Z" finished-at="2021-12-17T17:09:12Z">
+      <class name="POM_Test_Cases.Timesheets_Test">
+        <test-method status="PASS" signature="TestSetup()[pri:0, instance:POM_Test_Cases.Timesheets_Test@1d29cf23]" name="TestSetup" is-config="true" duration-ms="9881" started-at="2021-12-17T17:08:29Z" finished-at="2021-12-17T17:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSetup -->
+        <test-method status="PASS" signature="TC_Timesheets()[pri:0, instance:POM_Test_Cases.Timesheets_Test@1d29cf23]" name="TC_Timesheets" duration-ms="30855" started-at="2021-12-17T17:08:39Z" finished-at="2021-12-17T17:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Timesheets -->
+        <test-method status="PASS" signature="TestCloser()[pri:0, instance:POM_Test_Cases.Timesheets_Test@1d29cf23]" name="TestCloser" is-config="true" duration-ms="2173" started-at="2021-12-17T17:09:10Z" finished-at="2021-12-17T17:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCloser -->
+      </class> <!-- POM_Test_Cases.Timesheets_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

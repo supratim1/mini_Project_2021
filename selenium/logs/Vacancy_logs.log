@@ -1,0 +1,14 @@
+[INFO ] 2021-12-17 22:30:12.388 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:30:16.453 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:30:25.423 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 22:30:28.716 [main] VacancyPage - Clicked on View  vacancy menu
+[INFO ] 2021-12-17 22:30:29.916 [main] VacancyPage - Vacancy menu dispalyed
+[INFO ] 2021-12-17 22:30:29.964 [main] VacancyPage - Job search by job title done
+[INFO ] 2021-12-17 22:30:30.029 [main] VacancyPage - Job title selected from dropdown list
+[INFO ] 2021-12-17 22:30:31.345 [main] VacancyPage - Clicked on add job vacancy menu
+[INFO ] 2021-12-17 22:30:31.398 [main] VacancyPage - Value selected from drop down list box
+[INFO ] 2021-12-17 22:30:31.493 [main] VacancyPage - Employee name sent
+[INFO ] 2021-12-17 22:30:31.581 [main] VacancyPage - Hiring manager name selected
+[INFO ] 2021-12-17 22:30:33.743 [main] VacancyPage - Data saved successfully 
+[INFO ] 2021-12-17 22:30:37.791 [main] HomePage - Navigated to Home Page
+[INFO ] 2021-12-17 22:30:41.304 [main] HomePage - User logged out successfully

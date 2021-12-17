@@ -1,0 +1,10 @@
+[INFO ] 2021-12-17 13:13:57.634 [main] Login_Page_1 - Username entered 
+[INFO ] 2021-12-17 13:13:59.709 [main] Login_Page_1 - password entered 
+[INFO ] 2021-12-17 13:14:11.593 [main] Login_Page_1 - User logged in 
+[INFO ] 2021-12-17 13:14:19.497 [main] Nationalities_1 - Admin Tab Clicked
+[TRACE] 2021-12-17 13:14:39.459 [main] Nationalities_1 - Nationalities Tab Clicked
+[WARN ] 2021-12-17 13:14:41.524 [main] Nationalities_1 - Admin Tab Clicked
+[INFO ] 2021-12-17 13:14:43.573 [main] Nationalities_1 - Nationality entered
+[WARN ] 2021-12-17 13:14:45.640 [main] Nationalities_1 - Data saved successfully
+[FATAL] 2021-12-17 13:14:49.685 [main] Home_Page_1 - Navigated to Home Page
+[INFO ] 2021-12-17 13:14:53.099 [main] Home_Page_1 - User logged out successfully

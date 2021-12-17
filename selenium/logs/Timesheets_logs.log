@@ -1,0 +1,11 @@
+[INFO ] 2021-12-17 22:38:42.572 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:38:46.640 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:38:55.772 [main] Alternate_LoginPage - User logged in successfully
+[FATAL] 2021-12-17 22:38:57.734 [main] TimesheetsPage - Clicked on Time tab
+[INFO ] 2021-12-17 22:38:57.770 [main] TimesheetsPage - Clicked on Timesheets tab
+[INFO ] 2021-12-17 22:38:58.416 [main] TimesheetsPage - Navigated to View employee section
+[INFO ] 2021-12-17 22:39:00.538 [main] TimesheetsPage - Employee selected from the Table 
+[INFO ] 2021-12-17 22:39:01.704 [main] TimesheetsPage - Clicked on Edit button
+[INFO ] 2021-12-17 22:39:03.204 [main] TimesheetsPage - Timesheet updated successfully 
+[INFO ] 2021-12-17 22:39:07.250 [main] HomePage - Navigated to Home Page
+[INFO ] 2021-12-17 22:39:10.650 [main] HomePage - User logged out successfully

@@ -1,0 +1,14 @@
+[INFO ] 2021-12-17 17:57:29.133 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 17:57:33.232 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 17:57:43.212 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 17:57:56.557 [main] DirectoryPage - Directory Tab clicked
+[INFO ] 2021-12-17 17:57:56.606 [main] DirectoryPage - Clicked on search directory
+[INFO ] 2021-12-17 17:57:56.630 [main] DirectoryPage - Any values if present cleared
+[INFO ] 2021-12-17 17:57:56.652 [main] DirectoryPage - Employee name provided
+[INFO ] 2021-12-17 17:59:47.099 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 17:59:51.184 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 18:00:02.060 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 18:00:14.749 [main] DirectoryPage - Directory Tab clicked
+[INFO ] 2021-12-17 18:00:14.795 [main] DirectoryPage - Clicked on search directory
+[INFO ] 2021-12-17 18:00:14.819 [main] DirectoryPage - Any values if present cleared
+[INFO ] 2021-12-17 18:00:14.846 [main] DirectoryPage - Employee name provided

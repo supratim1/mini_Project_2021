@@ -1,0 +1,7 @@
+[INFO ] 2021-12-17 22:10:20.658 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:10:24.722 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:10:35.651 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 22:10:39.663 [main] Alternate_LoginPage - Navigate to Admin section
+[WARN ] 2021-12-17 22:10:40.716 [main] Alternate_LoginPage - Navigated to job  section
+[WARN ] 2021-12-17 22:10:48.364 [main] Alternate_LoginPage - Job title provide
+[WARN ] 2021-12-17 22:10:53.517 [main] Alternate_LoginPage - Data saved successfully

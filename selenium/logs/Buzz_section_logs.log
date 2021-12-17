@@ -1,0 +1,19 @@
+[INFO ] 2021-12-17 22:03:10.466 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:03:14.525 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:03:22.877 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 22:03:26.261 [main] Alternate_LoginPage - Navigate to Admin section
+[WARN ] 2021-12-17 22:03:27.302 [main] Alternate_LoginPage - Navigated to job  section
+[WARN ] 2021-12-17 22:03:35.259 [main] Alternate_LoginPage - Job title provide
+[WARN ] 2021-12-17 22:03:41.526 [main] Alternate_LoginPage - Data saved successfully
+[INFO ] 2021-12-17 22:06:20.585 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:06:24.649 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:06:34.567 [main] Alternate_LoginPage - User logged in successfully
+[WARN ] 2021-12-17 22:06:41.467 [main] Buzz_SectionPage - Navigated to Admin section
+[WARN ] 2021-12-17 22:06:46.833 [main] Buzz_SectionPage - User name entered
+[WARN ] 2021-12-17 22:06:48.956 [main] Buzz_SectionPage - Job role selected
+[WARN ] 2021-12-17 22:06:57.279 [main] Buzz_SectionPage - Search action initiated
+[WARN ] 2021-12-17 22:06:57.318 [main] Buzz_SectionPage - scrollview action performed
+[WARN ] 2021-12-17 22:07:27.381 [main] Buzz_SectionPage - rest action successful
+[WARN ] 2021-12-17 22:07:31.428 [main] Buzz_SectionPage - Clicked on search button
+[INFO ] 2021-12-17 22:07:36.473 [main] HomePage - Navigated to Home Page
+[INFO ] 2021-12-17 22:07:40.160 [main] HomePage - User logged out successfully

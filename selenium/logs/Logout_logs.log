@@ -1,0 +1,5 @@
+[INFO ] 2021-12-17 22:17:44.398 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:17:48.457 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:17:57.742 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 22:18:01.795 [main] HomePage - Navigated to Home Page
+[INFO ] 2021-12-17 22:18:05.981 [main] HomePage - User logged out successfully

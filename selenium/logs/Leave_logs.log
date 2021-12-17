@@ -1,0 +1,12 @@
+[INFO ] 2021-12-17 22:15:27.030 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:15:31.090 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:15:40.529 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 22:15:44.330 [main] LeavePage - Clicked on Leave Tab 
+[TRACE] 2021-12-17 22:15:45.497 [main] LeavePage - Navigated to Leave list
+[INFO ] 2021-12-17 22:15:46.455 [main] LeavePage - Checkbox selected
+[INFO ] 2021-12-17 22:15:46.491 [main] LeavePage - Clicked on Employee name text area
+[INFO ] 2021-12-17 22:15:46.557 [main] LeavePage - Employee name entered
+[INFO ] 2021-12-17 22:15:46.614 [main] LeavePage - Sub unit selected 
+[INFO ] 2021-12-17 22:15:48.195 [main] LeavePage - Clicked on search button and data displayed successfully
+[INFO ] 2021-12-17 22:15:52.233 [main] HomePage - Navigated to Home Page
+[INFO ] 2021-12-17 22:15:55.968 [main] HomePage - User logged out successfully

@@ -1,0 +1,12 @@
+[INFO ] 2021-12-17 22:19:37.141 [main] Alternate_LoginPage - Username entered
+[INFO ] 2021-12-17 22:19:41.203 [main] Alternate_LoginPage - Password entered
+[INFO ] 2021-12-17 22:19:48.786 [main] Alternate_LoginPage - User logged in successfully
+[INFO ] 2021-12-17 22:19:50.620 [main] MaintenancePage - Clicked on Purge Employees button
+[WARN ] 2021-12-17 22:19:50.665 [main] MaintenancePage - Prompt for confirm password appears.
+[TRACE] 2021-12-17 22:19:50.724 [main] MaintenancePage - password provided
+[INFO ] 2021-12-17 22:19:52.471 [main] MaintenancePage - Employee name entered
+[INFO ] 2021-12-17 22:19:52.531 [main] MaintenancePage - Search action initiated
+[INFO ] 2021-12-17 22:19:52.613 [main] MaintenancePage - Again employee name entered
+[INFO ] 2021-12-17 22:19:52.639 [main] MaintenancePage - Maintenance records available successfully.
+[INFO ] 2021-12-17 22:19:56.680 [main] HomePage - Navigated to Home Page
+[INFO ] 2021-12-17 22:20:00.131 [main] HomePage - User logged out successfully
